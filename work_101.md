@@ -1,5 +1,5 @@
 # AI-BC3 (Artificial Intelligence for Building System Consciousness, Cognition and Control)
-## Work 101 Set up your development environment
+## Work 101: Set up your development environment
 
 1. Register a github account, and send me your account name so I will add you to our github group;
 2. Set up a Ubuntu environment via VirtualBox:
@@ -12,6 +12,6 @@
 	- Open a terminal;
 	- Install git by typing
 
-``sh
-sudo apt install git
-``
+    ```bash
+    sudo apt install git
+    ```
