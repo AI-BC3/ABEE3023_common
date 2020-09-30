@@ -22,7 +22,7 @@
      ```bash
       git clone https://github.com/AI-BC3/project_sorghum.git
      ```
-     - for Yiming: type
+     - for Yiming & Haoran: type
     
      ```bash
      git clone https://github.com/AI-BC3/project_holly.git 
